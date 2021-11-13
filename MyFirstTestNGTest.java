@@ -52,7 +52,7 @@ public class MyFirstTestNGTest {
 	  }
 
 	  @Test
-	  
+	  	//Test
 		  public void testNicheThyselfLogin() {
 				System.out.println("I  am in Test");
 				driver.get("https://nichethyself.com/tourism/home.html");
